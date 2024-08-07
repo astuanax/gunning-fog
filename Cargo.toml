@@ -1,0 +1,18 @@
+[package]
+name = "gunning-fog"
+version = "0.1.0"
+edition = "2021"
+description = "Text complexity calculation according to Gunning fog formula"
+repository = "https://github.com/astuanax/gunning-fog"
+license = "MIT"
+keywords = ["gamedev", "graphics"]
+
+
+[lib]
+name = "gunning_goh"
+path = "src/lib.rs"
+
+
+
+[dependencies]
+regex = "1.10.6"
