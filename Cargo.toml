@@ -9,7 +9,7 @@ keywords = ["gamedev", "graphics"]
 
 
 [lib]
-name = "gunning_goh"
+name = "gunning_fog"
 path = "src/lib.rs"
 
 
