@@ -2,7 +2,6 @@
 
 [![Crates.io](https://img.shields.io/crates/v/gunning_fog.svg)](https://crates.io/crates/gunning-fog)
 [![Docs.rs](https://docs.rs/gunning-fog/badge.svg)](https://docs.rs/gunning_fog)
-[![CI](https://github.com/astuanax/gunning-fog/workflows/CI/badge.svg)](https://github.com/astuanax/gunning_fog/actions)
 
 ## Installation
 
